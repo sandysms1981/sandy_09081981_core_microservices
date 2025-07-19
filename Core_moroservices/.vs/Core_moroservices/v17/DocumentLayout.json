@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\mango.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B277FC3-559C-43CC-A908-F5555CD7DB49}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\sample_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|solutionrelative:sample_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\sample_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|solutionrelative:sample_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|d:\\mypocgit\\sandy_09081981_core_microservices\\core_moroservices\\sample_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9D6803-C1C4-41F2-B30E-8C120054E49B}|Sample_WebApi\\Sample_WebApi.csproj|solutionrelative:sample_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:32:23.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:28:09.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Mango.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T13:25:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sample_WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sample_WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T13:02:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Sample_WebApi\\appsettings.json",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\appsettings.json",
+              "RelativeToolTip": "Sample_WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T13:02:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Sample_WebApi\\Program.cs",
+              "ToolTip": "D:\\MyPOCGit\\sandy_09081981_core_microservices\\Core_moroservices\\Sample_WebApi\\Program.cs",
+              "RelativeToolTip": "Sample_WebApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:01:09.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
